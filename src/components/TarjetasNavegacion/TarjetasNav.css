@@ -1,0 +1,24 @@
+.navigation-cards-container {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    height: 100vh;
+  }
+  
+  .card {
+    border: 1px solid #000000;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #333;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .card:hover {
+    background-color: rgb(120, 224, 215);
+  }
+  

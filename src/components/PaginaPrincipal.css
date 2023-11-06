@@ -1,0 +1,20 @@
+.pagina-principal {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(120, 224, 215);
+  }
+  
+  .pagina-principal h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .pagina-principal p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
