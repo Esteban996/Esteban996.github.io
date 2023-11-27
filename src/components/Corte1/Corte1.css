@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    height: 100vh; /* Ajusta la altura del cuerpo para cubrir toda la pantalla */
+    background-color: rgb(120, 224, 215);
+    overflow: hidden; /* Oculta la barra de desplazamiento */
+  }
+
+.Corte1 {
+    align-items: center;
+    text-align: center; /* Alinea el texto en el centro */
+  }
+  
+  .h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .imagen-container {
+    display: flex;
+    justify-content: space-around; /* Espacio uniforme entre las imágenes y sus enunciados */
+  }
+  
+  .imagen-item {
+    text-align: center; /* Alinea el contenido en el centro */
+  }
+
+  .imagen1 {
+    max-width: 90%; /* Ajusta el ancho máximo de las imágenes según tus necesidades */
+    height: auto;   /* Hace que la imagen sea proporcionalmente ajustable al ancho */
+  }
+
+  .imagen2 {
+    max-width: 90%; /* Ajusta el ancho máximo de las imágenes según tus necesidades */
+    height: auto;   /* Hace que la imagen sea proporcionalmente ajustable al ancho */
+  }
+
+  .imagen3 {
+    max-width: 80%; /* Ajusta el ancho máximo de las imágenes según tus necesidades */
+    height: auto;   /* Hace que la imagen sea proporcionalmente ajustable al ancho */
+  }
+
+

@@ -8,13 +8,23 @@
     background-color: rgb(120, 224, 215);
   }
   
-  .pagina-principal h1 {
+.h1 {
     font-size: 24px;
     margin-bottom: 20px;
   }
   
-  .pagina-principal p {
+.p {
     font-size: 16px;
     margin-bottom: 20px;
   }
+  
+
+.li {
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px;
+    text-align: justify;
+  }
+  
   

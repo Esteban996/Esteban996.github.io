@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    height: 100vh; /* Ajusta la altura del cuerpo para cubrir toda la pantalla */
+    background-color: rgb(120, 224, 215);
+    overflow: hidden; /* Oculta la barra de desplazamiento */
+  }
+
+.Corte2 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(120, 224, 215);
+  }
+
+.h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+.imagen-container1 {
+    display: flex;
+    justify-content: space-around; /* Espacio uniforme entre las imágenes y sus enunciados */
+  }
+  
+.imagen-item1 {
+    text-align: center; /* Alinea el contenido en el centro */
+  }
+
+.imagen4 {
+    max-width: 90%; /* Ajusta el ancho máximo de las imágenes según tus necesidades */
+    height: auto;   /* Hace que la imagen sea proporcionalmente ajustable al ancho */
+  }
+
+.imagen5 {
+    max-width: 90%; /* Ajusta el ancho máximo de las imágenes según tus necesidades */
+    height: auto;   /* Hace que la imagen sea proporcionalmente ajustable al ancho */
+  }
+
+.imagen6 {
+    max-width: 80%; /* Ajusta el ancho máximo de las imágenes según tus necesidades */
+    height: auto;   /* Hace que la imagen sea proporcionalmente ajustable al ancho */
+  }
+
+

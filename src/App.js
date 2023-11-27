@@ -13,6 +13,7 @@ function App() {
         <Route path="/corte2" element={<Corte2 />} />
         <Route path="/corte3" element={<Corte3 />} />
         <Route path="/paginaPrincipal" element={<PaginaPrincipal />} />
+        <Route path="/" element={<PaginaPrincipal />} />
       </Routes>
     </Router>
   );
